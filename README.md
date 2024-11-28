@@ -1,5 +1,5 @@
 Title: Advance Glass House Monitoring and Controlling Using Deep Learning
-https://ijsret.com/2021/03/18/ijsret-volume-7-issue-2-mar-apr-2021/
+Link: https://ijsret.com/2021/03/18/ijsret-volume-7-issue-2-mar-apr-2021/
 Published on: Apr 2021
 
 Summary:
